@@ -7,7 +7,7 @@
 > **Maximum performance. Minimum cost. Your hardware.**
 > Tandem is the inference optimization platform that makes GPU infrastructure invisible — deploy your model, set your SLO, and let Tandem handle the rest.
 
-[Website](https://tandemn.com) | [Docs](https://github.com/Tandemn-Labs/Tandemn-docs) | [Contact](https://tandemn.com/contact.html) | [Join Waitlist](https://tandemn.com/contact.html)
+[Website](https://tandemn.com) | [Docs](https://github.com/Tandemn-Labs/Tandemn-docs) | [Contact](https://tandemn.com/contact.html)
 
 ---
 
@@ -37,8 +37,4 @@ Tandem installs once in your VPC or on-prem cluster. Works with heterogeneous GP
 
 ## Get in touch
 
-Follow us on [LinkedIn](https://www.linkedin.com/company/tandemn) and reach out to the founders: [Mankeerat](https://www.linkedin.com/in/mankeerat-sidhu) · [Hetarth](https://www.linkedin.com/in/hetarth-chopra/)
-
-Book a call directly with our CTO: [calendly.com/hetarth](https://calendly.com/hetarth/30min)
-
-Learn more at [tandemn.com](https://tandemn.com)
+Follow us on [LinkedIn](https://www.linkedin.com/company/tandemn)
