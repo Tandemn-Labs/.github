@@ -27,11 +27,11 @@ For large workloads such as offline evals, dataset scoring, synthetic data gener
 
 ### Open Source
 
-The inference engines powering Tandem are fully open source. This means no black boxes, no vendor lock-in, andtransparent benchmarks. [tandemn-vllm](https://github.com/Tandemn-Labs/tandemn-vllm) brings heterogeneous inference to mixed GPU fleets. Contributions welcome.
+The inference engines powering Tandem are fully open source. This means no black boxes, no vendor lock-in, andtransparent benchmarks. Contributions are always appreciated!
 
 ### Built for Your Infrastructure
 
-Tandem installs once in your VPC or on-prem cluster. Works with heterogeneous GPU fleets, integrates with GCP, AWS, and Azure via SkyPilot, and requires zero changes to your existing model code.
+Tandem installs once in your VPC or on-prem cluster. Works with heterogeneous GPU fleets, integrates with GCP, AWS, and Azure, and requires zero changes to your existing model code. 
 
 ---
 
