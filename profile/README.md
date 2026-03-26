@@ -7,7 +7,7 @@
 > **Maximum performance. Minimum cost. On Your hardware.**
 > Tandem is the inference optimization platform that makes GPU infrastructure run on autoplilot. Deploy your model, set your SLO, and let Tandem handle the rest. 
 
-[Website](https://tandemn.com) | [Docs](https://github.com/Tandemn-Labs/Tandemn-docs) | [Contact](https://tandemn.com/contact.html)
+[Website](https://tandemn.com) | [Docs](https://tandemn.mintlify.app/introduction) | [Contact](https://tandemn.com/contact.html)
 
 ---
 
