@@ -7,7 +7,7 @@
 > **Maximum performance. Minimum cost. On your hardware.**
 > Tandemn is the inference optimization platform that makes inference infrastructure run on autopilot. Deploy your model and let Tandemn handle the rest.
 
-[Website](https://tandemn.com) | [Contact](https://tandemn.com/contact.html)
+[Website](https://tandemn.com) | [Contact](https://tandemn.com/contact)
 
 ---
 
